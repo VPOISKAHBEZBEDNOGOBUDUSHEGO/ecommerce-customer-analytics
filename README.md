@@ -1,5 +1,8 @@
 # Аналитика клиентской базы интернет-магазина
 
+![tests](https://github.com/ivanstarodumov/ecommerce-customer-analytics/actions/workflows/tests.yml/badge.svg)
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Воспроизводимый анализ 541 909 транзакционных строк из набора Online Retail: очистка данных, RFM-сегментация, ABC/XYZ-анализ, кластеризация, демонстрационный A/B-тест, классификация риска неактивности и сценарный LTV.
 
 Проект отвечает на три практических вопроса:
